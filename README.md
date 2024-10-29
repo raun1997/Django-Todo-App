@@ -1,1 +1,1 @@
-"# Django Note-taking App" 
+# Django Note-taking App
